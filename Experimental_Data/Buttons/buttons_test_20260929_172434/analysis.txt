@@ -1,0 +1,19 @@
+========================================================================
+BUTTONS EXPERIMENTAL DATA ANALYSIS
+========================================================================
+Source: buttons_test_20260929_172434.csv
+Recorded state-change rows: 203
+Duration [s]: 1295.0997
+
+grab: presses=36, releases=36, active rows=48
+forward: presses=27, releases=27, active rows=35
+backward: presses=39, releases=39, active rows=75
+
+STATE COMBINATIONS
+  G0 F0 B0: 74
+  G0 F0 B1: 47
+  G1 F0 B0: 29
+  G0 F1 B0: 25
+  G1 F0 B1: 18
+  G0 F1 B1: 9
+  G1 F1 B1: 1

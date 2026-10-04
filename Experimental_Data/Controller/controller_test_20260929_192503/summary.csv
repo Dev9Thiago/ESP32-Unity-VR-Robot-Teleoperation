@@ -1,0 +1,2 @@
+ctrl_packets,duration_s,average_receive_rate_hz,pitch_min_deg,pitch_max_deg,roll_min_deg,roll_max_deg,linear_min,linear_max,angular_min,angular_max,grab_active_records,forward_active_records,backward_active_records,missing_sequence_numbers,sequence_discontinuities,haptic_events,rtt_samples,rtt_mean_ms
+2783,55.558,50.07379675294287,-25.48,44.86,-21.69,24.57,-1.0,1.0,-0.849,0.981,10,11,9,2,2,13,2,55.03125

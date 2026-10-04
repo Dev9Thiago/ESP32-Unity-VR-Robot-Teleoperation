@@ -1,0 +1,23 @@
+========================================================================
+COMPLETE CONTROLLER EXPERIMENTAL DATA ANALYSIS
+========================================================================
+Source: controller_test_20260929_192503.csv
+CTRL packets: 2783
+CTRL duration [s]: 55.5580
+Average receive rate [packet/s]: 50.074
+Pitch range [deg]: -25.480 to 44.860
+Roll range [deg]: -21.690 to 24.570
+Linear command range: -1.000 to 1.000
+Angular command range: -0.849 to 0.981
+Missing sequence numbers from forward gaps: 2
+Sequence discontinuities: 2
+Haptic EVENT messages: 13
+RTT samples: 2
+RTT mean [ms]: 55.031
+
+RECORD TYPES
+  CTRL: 2783
+  COMMAND: 22
+  MESSAGE: 20
+  RTT: 2
+  CONNECTION: 1

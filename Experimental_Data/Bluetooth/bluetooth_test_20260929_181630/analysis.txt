@@ -1,0 +1,16 @@
+========================================================================
+BLUETOOTH EXPERIMENTAL DATA ANALYSIS
+========================================================================
+Source: bluetooth_test_20260929_181630.csv
+DATA packets: 54333
+DATA duration [s]: 2892.3768
+Average receive rate [packet/s]: 18.785
+Mean inter-arrival [ms]: 53.235
+Sequence: 0 -> 54478
+Missing sequence numbers from forward gaps: 146
+Sequence discontinuities: 80
+
+RTT samples: 11
+RTT mean/std/min/max [ms]: 31.855 / 9.476 / 12.375 / 47.958
+
+NOTE: RTT is round-trip time; it is not one-way latency.

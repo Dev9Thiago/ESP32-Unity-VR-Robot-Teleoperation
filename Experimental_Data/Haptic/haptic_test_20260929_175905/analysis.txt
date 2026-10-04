@@ -1,0 +1,22 @@
+========================================================================
+HAPTIC EXPERIMENTAL DATA ANALYSIS
+========================================================================
+Source: haptic_test_20260929_175905.csv
+Records: 83
+Duration [s]: 511.6960
+
+COMMAND COUNTS
+  M1: 18
+  BOTH: 17
+  H1: 15
+  M2: 12
+  H2: 10
+  H0: 6
+  STOP: 4
+  STATUS: 1
+
+M1 intensity [%]: mean=25.000, min=0.000, max=91.000
+
+M2 intensity [%]: mean=35.417, min=0.000, max=100.000
+
+BOTH intensity [%]: mean=26.765, min=0.000, max=100.000

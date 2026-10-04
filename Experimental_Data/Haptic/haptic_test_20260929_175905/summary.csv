@@ -1,0 +1,9 @@
+category,count,mean_intensity_pct,min_intensity_pct,max_intensity_pct
+STATUS,1,,,
+M1,18,25.0,0.0,91.0
+M2,12,35.416666666666664,0.0,100.0
+BOTH,17,26.764705882352942,0.0,100.0
+H0,6,,,
+H1,15,,,
+H2,10,,,
+STOP,4,,,

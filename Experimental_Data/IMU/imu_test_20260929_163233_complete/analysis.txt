@@ -1,0 +1,62 @@
+========================================================================
+IMU EXPERIMENTAL DATA ANALYSIS
+========================================================================
+Source: imu_test_20260929_163233_complete.csv
+Valid samples: 12882
+Duration [s]: 128.8412
+Estimated sample rate [Hz]: 99.976
+
+TEST: IDLE
+  Samples: 760
+  Pitch mean/std/min/max [deg]: 0.032 / 0.008 / 0.010 / 0.050
+  Roll  mean/std/min/max [deg]: -0.041 / 0.008 / -0.060 / -0.010
+
+TEST: NEUTRAL
+  Samples: 4171
+  Pitch mean/std/min/max [deg]: 0.593 / 8.193 / -21.450 / 26.350
+  Roll  mean/std/min/max [deg]: 1.879 / 5.624 / -0.410 / 25.800
+
+TEST: PITCH_FORWARD
+  Samples: 506
+  Pitch mean/std/min/max [deg]: 4.727 / 4.026 / 0.040 / 13.400
+  Roll  mean/std/min/max [deg]: 0.059 / 0.076 / -0.050 / 0.210
+
+TEST: HOLD_PITCH_FORWARD
+  Samples: 1308
+  Pitch mean/std/min/max [deg]: 24.483 / 3.281 / 13.470 / 26.750
+  Roll  mean/std/min/max [deg]: 0.127 / 0.041 / 0.010 / 0.230
+
+TEST: PITCH_BACKWARD
+  Samples: 504
+  Pitch mean/std/min/max [deg]: -13.224 / 7.043 / -20.760 / -0.050
+  Roll  mean/std/min/max [deg]: -0.050 / 0.114 / -0.520 / 0.070
+
+TEST: HOLD_PITCH_BACKWARD
+  Samples: 1162
+  Pitch mean/std/min/max [deg]: -21.139 / 0.205 / -21.530 / -20.690
+  Roll  mean/std/min/max [deg]: 0.039 / 0.034 / -0.020 / 0.130
+
+TEST: ROLL_RIGHT
+  Samples: 512
+  Pitch mean/std/min/max [deg]: -0.034 / 0.117 / -0.280 / 0.130
+  Roll  mean/std/min/max [deg]: 10.241 / 8.364 / -0.030 / 22.250
+
+TEST: HOLD_ROLL_RIGHT
+  Samples: 1314
+  Pitch mean/std/min/max [deg]: 0.057 / 0.047 / -0.050 / 0.160
+  Roll  mean/std/min/max [deg]: 24.804 / 0.927 / 22.160 / 26.090
+
+TEST: ROLL_LEFT
+  Samples: 505
+  Pitch mean/std/min/max [deg]: -1.190 / 0.628 / -2.110 / 0.010
+  Roll  mean/std/min/max [deg]: -10.636 / 5.048 / -15.630 / -0.030
+
+TEST: HOLD_ROLL_LEFT
+  Samples: 1126
+  Pitch mean/std/min/max [deg]: -0.987 / 0.211 / -1.510 / -0.320
+  Roll  mean/std/min/max [deg]: -14.088 / 0.115 / -14.460 / -13.700
+
+TEST: NEUTRAL_FINAL
+  Samples: 1014
+  Pitch mean/std/min/max [deg]: -0.435 / 0.651 / -1.960 / 0.130
+  Roll  mean/std/min/max [deg]: -3.258 / 5.292 / -14.030 / 0.610

@@ -1,0 +1,4 @@
+button,presses_rising_edges,releases_falling_edges,records_active
+grab,36,36,48
+forward,27,27,35
+backward,39,39,75

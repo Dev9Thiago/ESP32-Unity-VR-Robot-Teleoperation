@@ -1,0 +1,13 @@
+# ESP32-Unity-VR-Robot-Teleoperation
+# General Python dependencies for:
+# - ESP32 subsystem test interfaces
+# - Complete haptic controller GUI
+# - Serial/Bluetooth data acquisition
+# - Experimental data analysis and plotting
+#
+# Recommended Python version: 3.10+
+
+pyserial>=3.5
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7

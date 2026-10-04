@@ -1,0 +1,32 @@
+========================================================================
+IMU EXPERIMENTAL DATA ANALYSIS
+========================================================================
+Source: imu_test_20260929_165306_partial.csv
+Valid samples: 2680
+Duration [s]: 29.4981
+Estimated sample rate [Hz]: 90.819
+
+TEST: NEUTRAL
+  Samples: 810
+  Pitch mean/std/min/max [deg]: 0.133 / 0.034 / 0.020 / 0.270
+  Roll  mean/std/min/max [deg]: -0.359 / 0.038 / -0.420 / -0.050
+
+TEST: PITCH_FORWARD
+  Samples: 335
+  Pitch mean/std/min/max [deg]: 8.117 / 6.674 / 0.130 / 16.520
+  Roll  mean/std/min/max [deg]: -0.308 / 0.043 / -0.380 / -0.160
+
+TEST: PITCH_BACKWARD
+  Samples: 454
+  Pitch mean/std/min/max [deg]: -5.748 / 10.961 / -22.510 / 16.180
+  Roll  mean/std/min/max [deg]: -0.389 / 0.083 / -0.610 / -0.130
+
+TEST: ROLL_RIGHT
+  Samples: 432
+  Pitch mean/std/min/max [deg]: 0.007 / 0.235 / -0.430 / 0.450
+  Roll  mean/std/min/max [deg]: 18.349 / 13.774 / -3.140 / 37.430
+
+TEST: ROLL_LEFT
+  Samples: 649
+  Pitch mean/std/min/max [deg]: -1.515 / 1.948 / -4.830 / 1.770
+  Roll  mean/std/min/max [deg]: -9.748 / 9.897 / -27.300 / 2.330

@@ -1,0 +1,2 @@
+data_packets,duration_s,average_receive_rate_hz,mean_interarrival_ms,std_interarrival_ms,sequence_first,sequence_last,missing_sequence_numbers,sequence_discontinuities,rtt_samples,rtt_mean_ms,rtt_std_ms,rtt_min_ms,rtt_max_ms
+54333,2892.3768,18.78455116912845,53.23523522049621,165.87129433553645,0,54478,146,80,11,31.855081818181816,9.475681539690767,12.3748,47.9577
